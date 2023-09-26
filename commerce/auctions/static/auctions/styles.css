@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.noLinkEffect, .noLinkEffect:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.card {
+  margin-bottom: 10px;
+}
